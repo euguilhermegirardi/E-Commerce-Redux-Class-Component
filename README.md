@@ -1,5 +1,5 @@
-# E-Commerce-Class-Component
-Simple exercise with React-Class-Component-with-Redux
+# E-Commerce-Redux-Class-Component
+Simple exercise with React-Class-Component-with-Redux.
 
 ## About the project
 
@@ -7,7 +7,7 @@ Simple exercise with React-Class-Component-with-Redux
 
 ## The frontend
 
-It was developed with [**_ReactJS_**](https://reactjs.org/) using [**Redux**](https://redux.js.org/) to handle the state with the reducers and the actions.
+It was developed with [**_ReactJS_**](https://reactjs.org/) using [**_Redux_**](https://redux.js.org/) to handle the state with the reducers and the actions.
 [**_react-router-dom_**](https://www.npmjs.com/package/react-router-dom) to handle the routes.
 
 **Login**
@@ -31,7 +31,7 @@ It was developed with [**_ReactJS_**](https://reactjs.org/) using [**Redux**](ht
 
 - Clone the repo
 
-      git clone https://github.com/euguilhermegirardi/E-Commerce-Class-Component.git
+      git clone https://github.com/euguilhermegirardi/E-Commerce-Redux-Class-Component.git
 
 3. Install NPM packages
 
